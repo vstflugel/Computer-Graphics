@@ -1,0 +1,9 @@
+/home/flugel/notes/Computer graphics/opengl-tutorial-master/build/CMakeFiles/rebuild_cache.dir
+/home/flugel/notes/Computer graphics/opengl-tutorial-master/build/CMakeFiles/edit_cache.dir
+/home/flugel/notes/Computer graphics/opengl-tutorial-master/build/CMakeFiles/glad.dir
+/home/flugel/notes/Computer graphics/opengl-tutorial-master/build/CMakeFiles/app.dir
+/home/flugel/notes/Computer graphics/opengl-tutorial-master/build/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/flugel/notes/Computer graphics/opengl-tutorial-master/build/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/flugel/notes/Computer graphics/opengl-tutorial-master/build/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/flugel/notes/Computer graphics/opengl-tutorial-master/build/libraries/glfw/src/CMakeFiles/edit_cache.dir
+/home/flugel/notes/Computer graphics/opengl-tutorial-master/build/libraries/glfw/src/CMakeFiles/glfw.dir
